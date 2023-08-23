@@ -1,0 +1,404 @@
+{
+  "menus": [
+    {
+      "label": "Fruits & Vegetables",
+      "second_level": [
+        {
+          "label": "Fresh Vegetables",
+          "third_level": [
+            {
+              "label": "Potato, Onion & Tomato"
+            },
+            {
+              "label": "Cucumber & Capsicum"
+            },
+            {
+              "label": "Leafy Vegetables"
+            },
+            {
+              "label": "Root Vegetables"
+            },
+            {
+              "label": "Beans, Brinjals & Okra"
+            },
+            {
+              "label": "Cabbage & Cauliflower"
+            },
+            {
+              "label": "Gourd, Pumpkin, Drumstick"
+            },
+            {
+              "label": "Specialty"
+            }
+          ]
+        },
+        {
+          "label": "Herbs & Seasonings",
+          "third_level": []
+        },
+        {
+          "label": "Fresh Fruits",
+          "third_level": []
+        },
+        {
+          "label": "Organic Fruits & Veggies",
+          "third_level": []
+        },
+        {
+          "label": "Cuts & Sprouts",
+          "third_level": []
+        },
+        {
+          "label": "Exotic Fruits & Veggies",
+          "third_level": []
+        },
+        {
+          "label": "Flower Bouquets, Bunches",
+          "third_level": []
+        }
+      ]
+    },
+    {
+      "label": "Foodgrains, Oil & Masala",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+        {
+      "label": "Bakery, Cakes & Dairy",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Beverages",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Snacks & Branded Foods",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Beauty & Hygiene",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Cleaning & Household",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Kitchen, Garden & pets",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Eggs, Meat & Fish",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Gourment & World Food",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "Baby Care",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    },
+     {
+      "label": "View All",
+      "second_level": [
+        {
+          "label": "Luggage Bags",
+          "third_level": [
+            {
+              "label": "Adidas"
+            },
+            {
+              "label": "Burberry"
+            },
+            {
+              "label": "Chloe"
+            }
+          ]
+        },
+        {
+          "label": "Perfumes",
+          "third_level": []
+        },
+        {
+          "label": "Hand Bags",
+          "third_level": []
+        },
+        {
+          "label": "Sunglasses",
+          "third_level": []
+        }
+      ]
+    }
+
+  ]
+}
